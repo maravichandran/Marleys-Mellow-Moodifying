@@ -1,6 +1,0 @@
-Changes: 
-used existing code from PLTW activities to get the images from the directory
-used Siqi's existing modulus code to create patterns
-created color schemes and experimented with patterns
-developed bottle mask
-attempted to put text for a slogan on the outputted image but this idea was abandoned
