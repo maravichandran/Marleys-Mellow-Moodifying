@@ -12,4 +12,4 @@ To run:
 1. Install Python 2.x and following libraries: PIL, matplotlib, os, numpy
 2. Place Marleys_Mood.py, bottle.png, and the images you would like to modify in the same directory
 3. Run Marleys_Mood.py, call moodify_all(), and follow the prompts
-4. Out will be in moodified directory
+4. Output will be in moodified directory
